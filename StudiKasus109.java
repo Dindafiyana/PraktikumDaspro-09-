@@ -11,6 +11,8 @@ public class StudiKasus109 {
         int totalHarga, diskon, totalBayar;
         int kembalian, kurang;
 
+        totalHarga= jumlahCup*hargaPerCup;
+        diskon =  0;
 
     }
 }
