@@ -9,4 +9,4 @@ Hasil Uji Studi Kasus 2 oleh <Nama>
 | 1  | 2     | 4       | 3          |Dokumen tidak lengkap. Penghargaan tidak diberikan                           | Ya      |
 | 2  | 3     | 4       | 0          |Bukan Juara 1, 2, atau 3. Dana penghargaan tidak diberikan                   | Ya      |
 | 3  | 4     | 4       | 1          |Dana penghargaan diberikan kepada mir untuk kegiatan PKM yang lolos pendanaan| Ya      |
-| 4  | 5     | 4       | 3          |Kegiatan LAINNYA tidak termasuk kategori yang mendapat dana penghargaan      | Ya      |
+| 4  | 5     | 4       | 3          |Kegiatan LAINNYA tidak termasuk kategori yang mendapat dana penghargaan      | Ya  |
