@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class StudiKasus109 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        
         int hargaPerCup = 18000;
         System.out.println("Masukkan jumlah cup");
         int jumlahCup = sc.nextInt();
